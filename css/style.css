@@ -1,5 +1,8 @@
 /*** Spinner Start ***/
 /*** Spinner ***/
+* {
+	font-family:'Cairo';
+}
 #spinner {
     opacity: 0;
     visibility: hidden;
@@ -21,9 +24,7 @@
     transition: 0.5s;
     z-index: 99;
 }
-* {
-	font-family:'Cairo';
-}
+
 /*** Button Start ***/
 .btn {
     font-weight: 600;
