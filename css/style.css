@@ -21,7 +21,9 @@
     transition: 0.5s;
     z-index: 99;
 }
-
+* {
+	font-family:'Cairo';
+}
 /*** Button Start ***/
 .btn {
     font-weight: 600;
