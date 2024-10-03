@@ -401,7 +401,7 @@
     min-height: 215px;
     padding: 10px 15px;
     margin: 0 auto;
-    border-radius: 10px;
+    border-radius: 100px;
     box-shadow: 0 8px 5px rgba(0, 0, 0, 0.2);
     background: var(--bs-white);
 }
