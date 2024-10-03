@@ -1,7 +1,7 @@
 /*** Spinner Start ***/
 /*** Spinner ***/
 * {
-	font-family:'Cairo';
+	font-family:'Cairo'!important;
 }
 #spinner {
     opacity: 0;
