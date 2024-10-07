@@ -1,6 +1,6 @@
 *:not(i) {
 	font-family:'Cairo'!important;
 }
-nav.navbar.navbar-expand-lg.navbar-light.bg-white.px-4.px-lg-5.py-3.py-lg-0 {
+*{
 	direction:rtl;
 }
